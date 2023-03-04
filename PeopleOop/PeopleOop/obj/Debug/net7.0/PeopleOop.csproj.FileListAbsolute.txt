@@ -1,0 +1,5 @@
+D:\С#\КУРСЫ\3PeopleOop\PeopleOop\PeopleOop\obj\Debug\net7.0\PeopleOop.csproj.AssemblyReference.cache
+D:\С#\КУРСЫ\3PeopleOop\PeopleOop\PeopleOop\obj\Debug\net7.0\PeopleOop.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\КУРСЫ\3PeopleOop\PeopleOop\PeopleOop\obj\Debug\net7.0\PeopleOop.AssemblyInfoInputs.cache
+D:\С#\КУРСЫ\3PeopleOop\PeopleOop\PeopleOop\obj\Debug\net7.0\PeopleOop.AssemblyInfo.cs
+D:\С#\КУРСЫ\3PeopleOop\PeopleOop\PeopleOop\obj\Debug\net7.0\PeopleOop.csproj.CoreCompileInputs.cache
